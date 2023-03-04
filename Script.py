@@ -7,11 +7,11 @@ class script(object):
 𝖳𝗁𝖺𝗍𝗌 𝖠𝗅𝗅, 𝗂 𝗐𝗂𝗅𝗅 𝖯𝗋𝗈𝗏𝗂𝖽𝖾 𝖬𝗈𝗏𝗂𝖾𝗌 𝖳𝗁𝖾𝗋𝖾...🤓🤪</i>
 
 
-⚠️ 𝖬𝗈𝗋𝖾 𝖧𝖾𝗅𝗉 𝖧𝗂𝗍 /help
+⚠️ 𝖬𝗈𝗋𝖾 𝖧𝖾𝗅𝗉 𝖧𝗂𝗍 /Help
 
-🙋🏻‍♂️ 𝖳𝗎𝗍𝗈𝗋𝗂𝖺𝗅 𝖦𝗎𝗂𝖽𝖾 @kv_Bots
+🙋🏻‍♂️ 𝖳𝗎𝗍𝗈𝗋𝗂𝖺𝗅 𝖦𝗎𝗂𝖽𝖾 @KV_Bots
 
-<b>😎 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖻𝗒 @kerala_villas</b>"""
+<b>😎 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖻𝗒 @Kerala_Villas</b>"""
 
     HELP_TXT = """🙋🏻‍♂️   𝖧𝖾𝗅𝗅𝗈𝗈𝗈  {} 🤓
 
@@ -20,7 +20,7 @@ class script(object):
 ○  𝖲𝖾𝖺𝗋𝖼𝗁 𝗎𝗌𝗂𝗇𝗀 𝗂𝗇𝗅𝗂𝗇𝖾 𝗆𝗈𝖽𝖾
 𝖳𝗁𝗂𝗌 𝗆𝖾𝗍𝗁𝗈𝖽 𝗐𝗈𝗋𝗄𝗌 𝗈𝗇 𝖺𝗇𝗒 𝖼𝗁𝖺𝗍, 𝖩𝗎𝗌𝗍 𝗍𝗒𝗉𝖾 <b>Bot Username</b> 𝖺𝗇𝖽 𝗍𝗁𝖾𝗇 𝗅𝖾𝖺𝗏𝖾 𝖺 𝗌𝗉𝖺𝖼𝖾 𝖺𝗇𝖽 𝗌𝖾𝖺𝗋𝖼𝗁 𝖺𝗇𝗒 𝗆𝗈𝗏𝗂𝖾 𝗒𝗈𝗎 𝗐𝖺𝗇𝗍...
 
-🙋🏻‍♂️ 𝖳𝗎𝗍𝗈𝗋𝗂𝖺𝗅 𝖦𝗎𝗂𝖽𝖾 @kv_updates
+🙋🏻‍♂️ 𝖳𝗎𝗍𝗈𝗋𝗂𝖺𝗅 𝖦𝗎𝗂𝖽𝖾 @KV_Bots
 
 ○ 𝖠𝗏𝖺𝗂𝗅𝖺𝖻𝗅𝖾 𝖢𝗈𝗆𝗆𝖺𝗇𝖽𝗌
      
@@ -30,13 +30,13 @@ class script(object):
  /ping - To get your ping
  /id - User id
  /stats - Db status  
- /broadcast - Broadcast (𝖮𝗐𝗇𝖾𝗋 𝖮𝗇𝗅𝗒)
+ /broadcast - Broadcast
 
 ○ <u>𝖭𝗈𝗍𝗂𝖼𝖾</u> 📙:-
 
 𝖣𝗈𝗇𝗍 𝖲𝗉𝖺𝗆 𝖬𝖾...🤒
 
-😎 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖻𝗒 @kerala_villas"""
+😎 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖻𝗒 @Kerala_Villas"""
 
     ABOUT_TXT = """<b>○ 𝖬𝗒 𝖭𝖺𝗆𝖾: {}
 ○ 𝖢𝗋𝖾𝖺𝗍𝗈𝗋 : <a href='https://t.me/Dieudx'>𝖳𝗁𝗂𝗌 𝖯𝖾𝗋𝗌𝗈𝗇</a>
@@ -139,7 +139,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 𝖳𝗈𝗍𝖺𝗅 𝖢𝗁𝖺𝗍𝗌: <code>{}</code>
 𝖴𝗌𝖾𝖽 𝖲𝗍𝗈𝗋𝖺𝗀𝖾: <code>{}</code>
 
-<b>😎 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖻𝗒 @kerala_villas</b>"""
+<b>😎 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖻𝗒 @Kerala_Villas</b>"""
 
     LOG_TEXT_G = """#NewGroup
 Gʀᴏᴜᴘ = {}(<code>{}</code>)
@@ -185,7 +185,7 @@ Request Again"""
 • 𝖣𝖺𝗋𝗄 𝗌01
 • 𝖲𝗁𝖾 𝖧𝗎𝗅𝗄 720𝗉
 • 𝖥𝗋𝗂𝖾𝗇𝖽𝗌 𝗌03 1080𝗉
-• 𝖬𝗎𝗌𝗍 𝗋𝖾𝖺𝖽 𝗍𝗁𝗂𝗌 https://t.me/Bot_Repo_Kittiyo/5
+• 𝖬𝗎𝗌𝗍 𝗋𝖾𝖺𝖽 𝗍𝗁𝗂𝗌 https://t.me/kv_updates/6
 
 ‼️𝗗𝗼𝗻𝘁 𝗮𝗱𝗱 𝘄𝗼𝗿𝗱𝘀 & 𝘀𝘆𝗺𝗯𝗼𝗹𝘀 𝗹𝗶𝗸𝗲 , . -  send link movie series 𝗲𝘁𝗰‼️"""
 
@@ -211,7 +211,7 @@ Message <b>: {}</b>"""
 
 ❤️‍🔥 </i>Join</i> [𝗞𝗘𝗥𝗔𝗟𝗔 𝗩𝗜𝗟𝗟𝗔𝗦](https://t.me/kerala_villas)  
 
-🖥 <i>Requests</i> - ||@kerala_villas|| """
+🖥 <i>Requests</i> - ||@Kerala_Villas|| """
 
     IMDB_TEMPLATE_TXT = """
 🏷 𝖳𝗂𝗍𝗅𝖾: <a href={url}>{title}</a> 
